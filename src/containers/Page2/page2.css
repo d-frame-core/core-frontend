@@ -1,0 +1,56 @@
+form {
+  height: 100vh;
+  text-align: center;
+  margin-top: 16rem;
+}
+
+.form_input {
+  border: 2px solid black;
+  width: 600px;
+  justify-content: center;
+  text-align: center;
+  margin-left: 40rem;
+  margin-top: 20px;
+  background-color: #cccdcf;
+}
+.profile {
+  font-size: large;
+}
+
+.input_name {
+  padding: 30px;
+  display: flex;
+}
+
+input {
+  width: 100%;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 15px 22px;
+  margin: 10px 5px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  background-color: #dff6ff;
+}
+input[type="number"] {
+  width: 80%;
+  padding: 15px 22px;
+  margin: 10px 5px;
+  border-radius: 10px;
+  box-sizing: border-box;
+  background-color: #dff6ff;
+}
+
+.input_number {
+  padding: 30px;
+  display: flex;
+}
+
+.button_submit {
+  border-radius: 20px;
+  background-color: #47b5ff;
+  padding: 14px 30px;
+  margin-bottom: 20px;
+}
